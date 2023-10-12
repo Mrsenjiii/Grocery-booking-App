@@ -1,0 +1,19 @@
+body {
+  background-color: #EF6F6F;
+}
+.form_font {
+  font-size: 16px;
+}
+
+.height_ {
+  height: 80px;
+  background-color: #e7d1d1;
+}
+
+.link_ {
+  background-color: red;
+}
+
+.form_container {
+  box-shadow: 3px 8px 40px #bf1a1a;
+}

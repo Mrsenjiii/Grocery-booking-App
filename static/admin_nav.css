@@ -1,0 +1,13 @@
+body {
+  background-color: #EF6F6F;
+  height: auto;
+}
+
+.navbar {
+  width: 100vw;
+  background-color: #e7d1d1;
+}
+
+.nav-item:hover{
+  background-color: #B41904;
+}
